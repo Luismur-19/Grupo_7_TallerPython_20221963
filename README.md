@@ -1,1 +1,1 @@
-# Grupo_7_TallerPython_20221963
+# Tareas
